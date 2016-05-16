@@ -186,11 +186,22 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+#business {
+    background: url(../img/callout.jpg) no-repeat center center scroll;
+}
+
+#security {
+    background: url(../img/wall.jpg) no-repeat center center scroll;
+}
+
+#consumers {
+    background: url(../img/person.jpg) no-repeat center center scroll;
 }
 
 /* Portfolio */
