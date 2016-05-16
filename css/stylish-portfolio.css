@@ -32,6 +32,10 @@ body {
 
 /* Custom Button Styles */
 
+.fa-cog {
+  color: black;
+}
+
 .btn-dark {
     border-radius: 0;
     color: #fff;
